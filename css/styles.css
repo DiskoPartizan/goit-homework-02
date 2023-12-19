@@ -1,6 +1,5 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-family: 'Raleway', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
@@ -14,6 +13,8 @@ header {
 }
 .web {
     color: #4D5AE5; 
+    font-family: 'Raleway',
+        sans-serif;
 }
 .studio {
     color: #2E2F42;
@@ -26,9 +27,8 @@ h1 {
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
-    /* 107.143% */
-    letter-spacing: 1.12px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 .button-order {
     background: var(#4D5AE5);
@@ -37,26 +37,23 @@ h1 {
     color: var(#2E2F42);
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    /* 120% */
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .p-strategy {
     color: var(#434455);
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .h2our-team {
     color: var(#2E2F42);
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
-    /* 111.111% */
-    letter-spacing: 0.72px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 .h3our-team {
@@ -64,51 +61,46 @@ h1 {
     text-align: center;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    /* 120% */
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .p-our-team {
     color: var(#434455);
     text-align: center;
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .portfolio {
     color: var(#2E2F42);
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 40px;
-    /* 111.111% */
-    letter-spacing: 0.72px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 .h3portfolio {
     color: var(#2E2F42);
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
-    /* 120% */
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .p-portfolio {
     color: var(#434455);
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     /* 150% */
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 .p-footer {
     width: 264px;
     color: var(#F4F4FD);
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
-    /* 150% */
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
