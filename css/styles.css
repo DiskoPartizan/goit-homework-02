@@ -1,13 +1,11 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-family: 'Raleway', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 header {
-    display: flex;
-    width: 1440px;
-    height: 72px;
     justify-content: center;
-    align-items: center;
     flex-shrink: 0;
     background-color: #E7E9FC;
     }
@@ -17,11 +15,13 @@ header {
 .web {
     color: #4D5AE5; 
 }
+.studio {
+    color: #2E2F42;
+}
 .menuaddres {
     color: #434455;
 }
 h1 {
-    width: 496px;
     color: var (#FFF);
     text-align: center;
     font-size: 56px;
@@ -31,33 +31,19 @@ h1 {
     letter-spacing: 1.12px;
 }
 .button-order {
-    display: inline-flex;
-    padding: 16px 32px;
-    align-items: flex-start;
-    gap: 10px;
-    border-radius: 4px;
     background: var(#4D5AE5);
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-    color: #4D5AE5;
 }
 .h3strategy {
-    width: 264px;
     color: var(#2E2F42);
-    font-family: Roboto;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
     line-height: 24px;
     /* 120% */
     letter-spacing: 0.4px;
-    color: #2E2F42;
 }
 .p-strategy {
-    width: 264px;
     color: var(#434455);
-    font-family: Roboto;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
     line-height: 24px;
     /* 150% */
@@ -92,7 +78,7 @@ h1 {
     letter-spacing: 0.32px;
 }
 .portfolio {
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(#2E2F42);
     text-align: center;
     font-size: 36px;
     font-weight: 700;
