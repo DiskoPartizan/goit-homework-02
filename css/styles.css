@@ -56,8 +56,11 @@ address {
 .menuaddres {
     color: #434455;
 }
+.section1 {
+    background-color: #2e2f42;
+}
 h1 {
-    color: var (#FFF);
+    color: #ffffff;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
@@ -65,7 +68,17 @@ h1 {
     letter-spacing: 0.02em;
 }
 .button-order {
-    background: var(#4D5AE5);
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.section1 .button-order:hover, .section1 .button-order:focus {
+    background-color: #404BBF;
 }
 .h3strategy {
     color: var(#2E2F42);
