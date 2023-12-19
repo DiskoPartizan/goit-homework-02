@@ -48,9 +48,7 @@ address {
     letter-spacing: 0.02em;
     color: #434455
 }
-.menuaddres .mailto:hover, .menuaddres .mailto:focus {
-    color: #404bbf;
-}
+
 .menuaddres .tel:hover,
 .menuaddres .tel:focus {
     color: #404bbf;
