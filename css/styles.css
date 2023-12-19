@@ -77,7 +77,7 @@ h1 {
     color: #ffffff;
     cursor: pointer;
 }
-.section1 .button-order:hover, .section1 .button-order:focus {
+.hero .button-order:hover, .hero .button-order:focus {
     background-color: #404BBF;
 }
 .h3strategy {
