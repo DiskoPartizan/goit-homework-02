@@ -10,13 +10,50 @@ header {
     }
 .navigate {
     color: #2E2F42;
+   
 }
 .web {
     color: #4D5AE5; 
     font-family: 'Raleway',sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .studio {
     color: #2E2F42;
+}
+.nav {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.menunav .nav:hover, .menunav .nav:focus {
+    color: #404bbf;
+}
+address {
+    font-style: normal;
+}
+.mailto {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.tel {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455
+}
+.menuaddres .mailto:hover, .menuaddres .mailto:focus {
+    color: #404bbf;
+}
+.menuaddres .tel:hover,
+.menuaddres .tel:focus {
+    color: #404bbf;
 }
 .menuaddres {
     color: #434455;
