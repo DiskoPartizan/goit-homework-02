@@ -94,8 +94,8 @@ h1 {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.h2our-team {
-    color: var(#2E2F42);
+.hour-team {
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -103,8 +103,8 @@ h1 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.h3our-team {
-    color: var(#2E2F42);
+.mark {
+    color: #2E2F42;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -112,7 +112,7 @@ h1 {
     letter-spacing: 0.02em;
 }
 .p-our-team {
-    color: var(#434455);
+    color: #434455;
     text-align: center;
     font-size: 16px;
     font-weight: 400;
@@ -120,7 +120,7 @@ h1 {
     letter-spacing: 0.02em;
 }
 .portfolio {
-    color: var(#2E2F42);
+    color: #2E2F42;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -128,24 +128,30 @@ h1 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-.h3portfolio {
-    color: var(#2E2F42);
+.h-portfolio {
+    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 .p-portfolio {
-    color: var(#434455);
+    color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.footer {
+    background-color: #2e2f42;
+}
 .p-footer {
-    color: var(#F4F4FD);
+    color: #F4F4FD;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.studio-footer {
+    color: #f4f4fd;
 }
