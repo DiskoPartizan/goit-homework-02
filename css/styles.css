@@ -80,19 +80,25 @@ h1 {
 .hero .button-order:hover, .hero .button-order:focus {
     background-color: #404BBF;
 }
-.h3strategy {
-    color: var(#2E2F42);
+.hh-strategy {
+    color: #2E2F42;
+}
+.h-strategy {
+    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
 .p-strategy {
-    color: var(#434455);
+    color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.section-tree {
+    background-color: #F4F4FD;
 }
 .hour-team {
     color: #2E2F42;
@@ -102,6 +108,9 @@ h1 {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+}
+.mark-team {
+    background-color: #FFFFFF;
 }
 .mark {
     color: #2E2F42;
