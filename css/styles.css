@@ -164,3 +164,9 @@ h1 {
 .studio-footer {
     color: #f4f4fd;
 }
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
